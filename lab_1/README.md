@@ -8,7 +8,7 @@
 
 Для начала я разобрался с базовыми командами терминала, как запускать скрипты, передвигаться по директориям, создавать файлы и тд. Сделал конспект.
 
-[Конспект](/Users/arsenijsafancikov/Dev/FPIN/informatics/Lab_1/script_screen.png)
+[Конспект](https://github.com/ArseniySAF/informatics/blob/main/lab_1/obsidian_screen.png)
 
 Для написания скриптов исползовал VSCode.
 
