@@ -16,4 +16,4 @@
 
 Далее написал скрипт и запустил его ./script.bash **Benedict Timothy Carlton Cumberbatch**
 
-[Скрипт](/Users/arsenijsafancikov/Dev/FPIN/informatics/Lab_1/script_screen.png "Скрипт")
+[Скрипт](https://github.com/ArseniySAF/informatics/blob/main/lab_1/script_screen.png)
