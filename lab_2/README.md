@@ -30,3 +30,6 @@ decimal_to_binary() {
 IFS='.' read -r octet1 octet2 octet3 octet4 |"$ip"
 
 ```
+**Вывод в терминал:**
+[Terminal]()
+
