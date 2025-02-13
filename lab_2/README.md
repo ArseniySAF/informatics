@@ -31,5 +31,5 @@ IFS='.' read -r octet1 octet2 octet3 octet4 |"$ip"
 
 ```
 **Вывод в терминал:**
-[Terminal]()
+[Terminal](https://github.com/ArseniySAF/informatics/blob/main/lab_2/terminal_screen.png)
 
